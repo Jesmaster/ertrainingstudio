@@ -1,0 +1,20 @@
+uuid: 6d7ad3bf-7ae0-435c-8dee-f5ca13cb3937
+langcode: en
+status: false
+dependencies:
+  module:
+    - system
+  theme:
+    - er
+id: er_powered
+theme: er
+region: '-1'
+weight: -2
+provider: null
+plugin: system_powered_by_block
+settings:
+  id: system_powered_by_block
+  label: 'Powered by Drupal'
+  provider: system
+  label_display: '0'
+visibility: {  }

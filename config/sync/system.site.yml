@@ -1,0 +1,12 @@
+uuid: 2c60da5a-0288-4824-b70b-9454e160f28b
+name: 'ER Fitness'
+mail: jesmasterha@gmail.com
+slogan: ''
+page:
+  403: ''
+  404: ''
+  front: /node
+admin_compact_mode: false
+weight_select_max: 100
+langcode: en
+default_langcode: en

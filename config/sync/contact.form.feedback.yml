@@ -1,0 +1,12 @@
+uuid: 955a3634-df4b-4637-b917-c7656ee129da
+langcode: en
+status: true
+dependencies: {  }
+id: feedback
+label: 'Website feedback'
+recipients:
+  - jesmasterha@gmail.com
+reply: ''
+weight: 0
+message: 'Your message has been sent.'
+redirect: ''

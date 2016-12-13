@@ -1,0 +1,20 @@
+uuid: 17e173c5-b318-4b7d-b2bc-70fa8173ac8e
+langcode: en
+status: true
+dependencies:
+  module:
+    - system
+  theme:
+    - er
+id: er_messages
+theme: er
+region: highlighted
+weight: 0
+provider: null
+plugin: system_messages_block
+settings:
+  id: system_messages_block
+  label: 'Status messages'
+  provider: system
+  label_display: '0'
+visibility: {  }

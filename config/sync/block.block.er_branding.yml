@@ -1,0 +1,23 @@
+uuid: ed5e419c-caa3-4b37-b2fc-72cab728b4c0
+langcode: en
+status: true
+dependencies:
+  module:
+    - system
+  theme:
+    - er
+id: er_branding
+theme: er
+region: header
+weight: 0
+provider: null
+plugin: system_branding_block
+settings:
+  id: system_branding_block
+  label: 'Site branding'
+  provider: system
+  label_display: '0'
+  use_site_logo: true
+  use_site_name: true
+  use_site_slogan: true
+visibility: {  }

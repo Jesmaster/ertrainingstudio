@@ -1,0 +1,24 @@
+uuid: b6dadb18-f693-4f2f-8350-61f93bb3d192
+langcode: en
+status: false
+dependencies:
+  config:
+    - system.menu.account
+  module:
+    - system
+  theme:
+    - er
+id: er_account_menu
+theme: er
+region: '-1'
+weight: -6
+provider: null
+plugin: 'system_menu_block:account'
+settings:
+  id: 'system_menu_block:account'
+  label: 'User account menu'
+  provider: system
+  label_display: '0'
+  level: 1
+  depth: 1
+visibility: {  }
