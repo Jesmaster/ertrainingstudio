@@ -8,8 +8,8 @@ dependencies:
     - er
 id: er_breadcrumbs
 theme: er
-region: navigation
-weight: 0
+region: content
+weight: -5
 provider: null
 plugin: system_breadcrumb_block
 settings:

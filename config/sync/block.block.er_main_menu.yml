@@ -10,8 +10,8 @@ dependencies:
     - er
 id: er_main_menu
 theme: er
-region: navigation
-weight: 0
+region: navigation_collapsible
+weight: -5
 provider: null
 plugin: 'system_menu_block:main'
 settings:

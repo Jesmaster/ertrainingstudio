@@ -9,7 +9,7 @@ dependencies:
 id: er_help
 theme: er
 region: content
-weight: -7
+weight: -6
 provider: null
 plugin: help_block
 settings:

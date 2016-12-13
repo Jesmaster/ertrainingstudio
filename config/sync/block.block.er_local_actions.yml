@@ -7,7 +7,7 @@ dependencies:
 id: er_local_actions
 theme: er
 region: content
-weight: -7
+weight: -3
 provider: null
 plugin: local_actions_block
 settings:
