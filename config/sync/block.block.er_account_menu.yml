@@ -8,9 +8,11 @@ dependencies:
     - system
   theme:
     - er
+_core:
+  default_config_hash: DweBpscQZdG0-fHkSpUzdYucrNH45G_KF7Z82V-oyQM
 id: er_account_menu
 theme: er
-region: '-1'
+region: navigation
 weight: -6
 provider: null
 plugin: 'system_menu_block:account'

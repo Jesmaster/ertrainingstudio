@@ -8,9 +8,11 @@ dependencies:
     - system
   theme:
     - bartik
+_core:
+  default_config_hash: DweBpscQZdG0-fHkSpUzdYucrNH45G_KF7Z82V-oyQM
 id: bartik_account_menu
 theme: bartik
-region: '-1'
+region: header
 weight: -6
 provider: null
 plugin: 'system_menu_block:account'

@@ -11,6 +11,8 @@ dependencies:
     - node.type.article
   module:
     - user
+_core:
+  default_config_hash: Q90X1FmFdOkTx8udckWPoAgleOstOerbgDnNpoP6PO4
 id: node.article.rss
 targetEntityType: node
 bundle: article
@@ -18,6 +20,7 @@ mode: rss
 content:
   links:
     weight: 100
+    region: content
 hidden:
   body: true
   comment: true

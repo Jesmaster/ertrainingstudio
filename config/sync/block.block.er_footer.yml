@@ -8,9 +8,11 @@ dependencies:
     - system
   theme:
     - er
+_core:
+  default_config_hash: kkISXE1LT2FJEoYnqCrCpeFB-2pmGmMxMklVk7rQcfg
 id: er_footer
 theme: er
-region: '-1'
+region: navigation
 weight: -3
 provider: null
 plugin: 'system_menu_block:footer'

@@ -6,6 +6,8 @@ dependencies:
     - system
   theme:
     - er
+_core:
+  default_config_hash: NDwadleLD3YVSbDUaakxyYZyINYtkFtOVGShfq4kWy8
 id: er_branding
 theme: er
 region: navigation_collapsible

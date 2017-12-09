@@ -6,9 +6,11 @@ dependencies:
     - system
   theme:
     - er
+_core:
+  default_config_hash: jQQUUWN2Uxr5qZtc9zcJKBCxpKY8orN1u2HPqYYRQDI
 id: er_powered
 theme: er
-region: '-1'
+region: navigation
 weight: -2
 provider: null
 plugin: system_powered_by_block
