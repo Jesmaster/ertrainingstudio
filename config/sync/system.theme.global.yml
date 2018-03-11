@@ -9,6 +9,6 @@ features:
   favicon: true
   node_user_picture: true
 logo:
-  path: ''
+  path: themes/custom/er/logo.jpg
   url: ''
   use_default: true

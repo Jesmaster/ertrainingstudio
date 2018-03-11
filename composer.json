@@ -9,12 +9,6 @@
             "role": ""
         }
     ],
-    "config": {
-        "preferred-install": "dist",
-        "platform": {
-            "php": "7.0"
-        }
-    },
     "repositories": [
         {
             "type": "composer",
@@ -25,11 +19,12 @@
         "composer/installers": "^1.2",
         "drupal-composer/drupal-scaffold": "^2.2",
         "cweagans/composer-patches": "~1.0",
-        "drupal/core": "~8.0",
-        "drush/drush": "~8.0",
+        "drupal/core": "^8.4",
+        "drush/drush": "^9.2",
         "drupal/console": "~1.0",
         "drupal/bootstrap": "^3.0",
-        "drupal/admin_toolbar": "^1.18"
+        "drupal/admin_toolbar": "^1.18",
+        "drupal/fontyourface": "^3.1"
     },
     "require-dev": {
         "behat/mink": "~1.7",
@@ -38,8 +33,7 @@
         "jcalderonzumba/mink-phantomjs-driver": "~0.3.1",
         "mikey179/vfsStream": "~1.2",
         "phpunit/phpunit": "~4.8",
-        "symfony/css-selector": "~2.8",
-        "geerlingguy/drupal-vm": "^4.7"
+        "symfony/css-selector": "~2.8"
     },
     "conflict": {
         "drupal/drupal": "*"
