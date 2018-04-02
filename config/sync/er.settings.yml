@@ -2,17 +2,19 @@ cdn_provider: ''
 favicon:
   mimetype: image/vnd.microsoft.icon
   path: ''
-  url: 'http://localhost:8000/er/web/themes/contrib/bootstrap/favicon.ico'
+  url: 'http://ertrainingstudio.docker.localhost/themes/custom/er/favicon.ico'
   use_default: true
+schemas:
+  bootstrap: 8000
+  er: 8000
 features:
   comment_user_picture: true
   comment_user_verification: true
   favicon: true
   node_user_picture: true
 logo:
-  path: ''
+  path: themes/custom/er/logo.jpg
   url: ''
   use_default: true
-schemas:
-  bootstrap: 8000
-  er: 8000
+table_responsive: '-1'
+table: ''
