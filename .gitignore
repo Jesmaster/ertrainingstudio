@@ -21,3 +21,8 @@ web/sites/simpletest
 .vagrant
 
 docker-compose.yml
+
+/.ddev
+
+/*.sql
+/*.sql.gz
